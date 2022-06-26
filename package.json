@@ -1,0 +1,14 @@
+{
+  "name": "tailwindcss-tutorial",
+  "version": "1.0.0",
+  "description": "Create a Landing Page With HTML,JavaScript and TailwindCSS V.3",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch"
+  },
+  "author": "Minhaz Halim",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
